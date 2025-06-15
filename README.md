@@ -42,7 +42,7 @@ By default, the tool uses FTP, FTPS or SFTP. SFTP need SSH2 to be installed.
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![FTP Online Client Screenshot](https://online.kevintobler.ch/projectimages/FTPOnlineClientLogin.png)
 
