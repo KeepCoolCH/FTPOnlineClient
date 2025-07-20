@@ -1,7 +1,7 @@
 # 📁 FTP Online Client
 
 **Web-based FTP File Manager** – manage your server files directly in the browser with drag & drop uploads, folder navigation, and file operations.  
-Version **1.1** – developed by Kevin Tobler 🌐 [www.kevintobler.ch](https://www.kevintobler.ch)
+Version **1.2** – developed by Kevin Tobler 🌐 [www.kevintobler.ch](https://www.kevintobler.ch)
 
 ---
 
