@@ -62,7 +62,7 @@ if (!isset($_SESSION['ftp_host'], $_SESSION['ftp_user'], $_SESSION['ftp_pass'], 
         <input type="number" name="ftp_port" placeholder="Port (default: 21)" style="width:100%;padding:8px;margin:8px 0;">
         <button type="submit" style="padding:10px 20px; margin:8px 0;">Connect</button>
     </form>';
-    require_once 'inc/footer.php';
+    require_once 'inc/elements/footer.php';
     exit;
 }
 
